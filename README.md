@@ -1,15 +1,15 @@
 # assignments-database-course
 All the assignments that I did in my database course at PUCMM.
 
-DESCRIPCIÓN.
-Esta asignatura tiene como objetivo dotar al estudiante con los conocimientos y habilidades técnicas básicas necesarias para que entienda y comprenda el marco conceptual relativo al diseño de bases de datos, haciendo énfasis en el modelo relacional.
+DESCRIPTION.
+The objective of this course is to provide the student with the basic technical knowledge and skills necessary to understand and comprehend the conceptual framework related to database design, emphasizing the relational model.
 
-OBJETIVOS GENERALES
-- Entender requerimientos de usuarios y vistas.
-- Analizar necesidades actuales y futuras de procesamientos de data.
-- Desarrollar modelos de representación de data que reflejen las necesidades de negocios.
-- Desarrollar y refinar el modelo de data conceptual, incluyendo todas las entidades, relaciones, atributos y reglas de negocios.
-- Integrar y unir vistas de bases de datos al modelo conceptual.
-- Aplicar técnicas de normalización.
-- Derivar diseños físicos en función de diseños conceptuales de data.
-- Crear aplicaciones conectadas a bases de datos.
+GENERAL OBJECTIVES
+- Understand user requirements and views.
+- Analyze current and future data processing needs.
+- Develop data representation models that reflect business needs.
+- Develop and refine the conceptual data model, including all entities, relationships, attributes, and business rules.
+- Integrate and join database views to the conceptual model.
+- Apply normalization techniques.
+- Derive physical designs based on conceptual data designs.
+- Create applications connected to databases.
